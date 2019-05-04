@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-  <Transactions>
-    <Transaction>2013-12-20 10:12:35.958.pas,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas=E:\xxx\FusionCharts\uTest.pas</Transaction>
-    <Transaction>2013-12-20 10:12:35.958.dfm,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.dfm=E:\xxx\FusionCharts\uTest.dfm</Transaction>
-    <Transaction>2013-12-20 10:12:44.083.bdsproj,C:\Users\Administrator\Documents\RAD Studio\Projects\Project1.bdsproj=E:\xxx\FusionCharts\pTestChart.bdsproj</Transaction>
-  </Transactions>
-</BorlandProject>
